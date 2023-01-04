@@ -6,4 +6,4 @@ regions:
   - ap-south-1
 filters:
 
-  tag:Env: production
+  tag:Env: testserver
